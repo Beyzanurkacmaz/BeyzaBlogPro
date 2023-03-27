@@ -1,0 +1,51 @@
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.BusinessLayer.deps.json
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.BusinessLayer.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.BusinessLayer.pdb
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.DataAccess.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.DataAccess.pdb
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.AssemblyInfo.cs
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.csproj.CopyComplete
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\refint\BlogProject.BusinessLayer.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.pdb
+C:\Users\kerim\source\repos\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\ref\BlogProject.BusinessLayer.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.BusinessLayer.deps.json
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.BusinessLayer.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.BusinessLayer.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.DataAccess.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.DataAccess.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.AssemblyInfo.cs
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.csproj.CopyComplete
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\refint\BlogProject.BusinessLayer.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\ref\BlogProject.BusinessLayer.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.BusinessLayer.deps.json
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.BusinessLayer.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.BusinessLayer.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.DataAccess.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.DataAccess.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\bin\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.AssemblyInfo.cs
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.csproj.CopyComplete
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\refint\BlogProject.BusinessLayer.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\BlogProject.BusinessLayer.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.BusinessLayer\obj\Debug\net6.0\ref\BlogProject.BusinessLayer.dll

@@ -1,0 +1,338 @@
+﻿++Solution 'BlogProject' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:BlogProject.sln
+++BlogProject.Entities
+i:{00000000-0000-0000-0000-000000000000}:BlogProject.Entities
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\bin\debug\net6.0\blogproject.entities.dll
+++Dependencies
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:>291
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:>290
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:>292
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:>729
+++Context
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\context\
+++Entities
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\entities\
+++Migrations
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\migrations\
+++Configuration.cs
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\configuration.cs
+++SqlDbContextFactory.cs
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\sqldbcontextfactory.cs
+++Analyzers
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:analyzers
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:analyzers
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:analyzers
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:analyzers
+++Frameworks
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:frameworks
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:frameworks
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:frameworks
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:frameworks
+++Packages
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:packages
+++SqlDbContext.cs
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\context\sqldbcontext.cs
+++Abstract
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\entities\abstract\
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.dataaccess\abstract\
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.businesslayer\abstract\
+++Concrete
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\entities\concrete\
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.dataaccess\concrete\
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.businesslayer\concrete\
+++20230307215821_initDB.cs
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\migrations\20230307215821_initdb.cs
+++SqlDbContextModelSnapshot.cs
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\migrations\sqldbcontextmodelsnapshot.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\users\beyzanur özcan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\users\beyzanur özcan\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\microsoft.netcore.app
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.dataaccess\microsoft.netcore.app
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.businesslayer\microsoft.netcore.app
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.14)
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:>769
+++Microsoft.EntityFrameworkCore.Design (6.0.14)
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:>776
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.14)
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:>774
+++Microsoft.EntityFrameworkCore.Tools (6.0.14)
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:>784
+++Microsoft.Extensions.Configuration (6.0.1)
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:>781
+++Microsoft.Extensions.Configuration.Json (6.0.0)
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:>778
+++BaseEntity.cs
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\entities\abstract\baseentity.cs
+++Blog.cs
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\entities\concrete\blog.cs
+++20230307215821_initDB.Designer.cs
+i:{5d820aae-95c3-43d0-b443-b6a525d406b0}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.entites\migrations\20230307215821_initdb.designer.cs
+++BlogProject.DataAccess
+i:{00000000-0000-0000-0000-000000000000}:BlogProject.DataAccess
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.dataaccess\bin\debug\net6.0\blogproject.dataaccess.dll
+++Projects
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:projects
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:projects
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:projects
+++IBlogRepository.cs
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.dataaccess\abstract\iblogrepository.cs
+++IRepository.cs
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.dataaccess\abstract\irepository.cs
+++IRepositoryBase.cs
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.dataaccess\abstract\irepositorybase.cs
+++BlogRepository.cs
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.dataaccess\concrete\blogrepository.cs
+++RepositoryBase.cs
+i:{04528398-110a-40f6-8b96-f7b1fc78b891}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.dataaccess\concrete\repositorybase.cs
+++BlogProject.BusinessLayer
+i:{00000000-0000-0000-0000-000000000000}:BlogProject.BusinessLayer
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.businesslayer\bin\debug\net6.0\blogproject.businesslayer.dll
+++IBlogManager.cs
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.businesslayer\abstract\iblogmanager.cs
+++BlogManager.cs
+i:{3427e701-3a67-4f07-a3c6-4e73ff9f1c3f}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.businesslayer\concrete\blogmanager.cs
+++BlogProject.WebUI
+i:{00000000-0000-0000-0000-000000000000}:BlogProject.WebUI
+++Connected Services 
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:>730
+++Properties
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\properties\
+++launchSettings.json
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\properties\launchsettings.json
+++wwwroot
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\
+++css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\css\
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\js\
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\
+++favicon.ico
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\favicon.ico
+++Controllers
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\controllers\
+++BlogController.cs
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\controllers\blogcontroller.cs
+++HomeController.cs
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\controllers\homecontroller.cs
+++Models
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\models\
+++ErrorViewModel.cs
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\models\errorviewmodel.cs
+++Views
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\
+++Blog
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\blog\
+++Food.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\blog\food.cshtml
+++Index.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\blog\index.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\home\index.cshtml
+++Movies.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\blog\movies.cshtml
+++Recepies.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\blog\recepies.cshtml
+++Sports.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\blog\sports.cshtml
+++UploadBlog.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\blog\uploadblog.cshtml
+++Home
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\home\
+++Privacy.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\home\privacy.cshtml
+++Shared
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\shared\
+++_Layout.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\shared\_layout.cshtml
+++_Layout.cshtml.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\shared\_layout.cshtml.css
+++_ValidationScriptsPartial.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\_viewstart.cshtml
+++web.config
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\views\web.config
+++appsettings.json
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\appsettings.json
+++Program.cs
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\program.cs
+++No service dependencies discovered
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:>731
+++site.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\css\site.css
+++site.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\js\site.js
+++bootstrap
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\
+++jquery
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery\
+++jquery-validation
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation-unobtrusive\
+++appsettings.Development.json
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\microsoft.aspnetcore.app
+++dist
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery\dist\
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery\license.txt
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++bootstrap.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++jquery.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.min.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.min.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.min.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.min.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.min.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.bundle.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.bundle.js.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{3e1847f2-0ff6-451d-b7dd-2d9d63511adb}:c:\users\beyzanur özcan\onedrive\masaüstü\gizem\blogproject\blogproject.webui\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map

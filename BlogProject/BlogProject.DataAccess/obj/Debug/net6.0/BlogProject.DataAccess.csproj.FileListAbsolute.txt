@@ -1,0 +1,45 @@
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.AssemblyInfo.cs
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.DataAccess.deps.json
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.DataAccess.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.DataAccess.pdb
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.csproj.CopyComplete
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\refint\BlogProject.DataAccess.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.pdb
+C:\Users\kerim\source\repos\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\ref\BlogProject.DataAccess.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.DataAccess.deps.json
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.DataAccess.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.DataAccess.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.AssemblyInfo.cs
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.csproj.CopyComplete
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\refint\BlogProject.DataAccess.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\ref\BlogProject.DataAccess.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.DataAccess.deps.json
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.DataAccess.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.DataAccess.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\bin\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.AssemblyInfo.cs
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.csproj.CopyComplete
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\refint\BlogProject.DataAccess.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\BlogProject.DataAccess.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.DataAccess\obj\Debug\net6.0\ref\BlogProject.DataAccess.dll

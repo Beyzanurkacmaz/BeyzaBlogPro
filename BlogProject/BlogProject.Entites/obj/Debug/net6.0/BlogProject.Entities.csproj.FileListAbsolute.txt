@@ -1,0 +1,42 @@
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.deps.json
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.csproj.AssemblyReference.cache
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.AssemblyInfo.cs
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\obj\Debug\net6.0\refint\BlogProject.Entities.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\obj\Debug\net6.0\ref\BlogProject.Entities.dll
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.runtimeconfig.json
+C:\Users\kerim\source\repos\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.genruntimeconfig.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.deps.json
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.runtimeconfig.json
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.csproj.AssemblyReference.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.AssemblyInfo.cs
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\obj\Debug\net6.0\refint\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.genruntimeconfig.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\BlogProject\BlogProject.Entites\obj\Debug\net6.0\ref\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.deps.json
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.runtimeconfig.json
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\bin\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.csproj.AssemblyReference.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.AssemblyInfo.cs
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\obj\Debug\net6.0\refint\BlogProject.Entities.dll
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.pdb
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\obj\Debug\net6.0\BlogProject.Entities.genruntimeconfig.cache
+C:\Users\Beyzanur Özcan\OneDrive\Masaüstü\gizem\BlogProject\BlogProject.Entites\obj\Debug\net6.0\ref\BlogProject.Entities.dll

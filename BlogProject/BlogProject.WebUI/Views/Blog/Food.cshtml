@@ -1,0 +1,36 @@
+﻿@model IEnumerable<BlogProject.Entities.Entities.Concrete.Blogs>
+
+@{
+    ViewBag.Title = "Food";
+}
+
+<h2>Yemek Makaleleri</h2>
+</hr>
+
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <b style="color:hotpink; font-size:large;">@Html.DisplayFor(modelItem => item.BTitle)  </b>
+                <p>
+                    @Html.DisplayFor(modelItem => item.BDesc)
+                </p>
+            </td>
+        </tr>
+
+        <tr>
+            <td> <a href="~/Blog/@item.BUrl"> Makalenin tamamini oku...</a></td>
+
+        </tr>
+
+        <tr>
+            <td>
+                Category <a href="~/Blog/@item.BCategory">@Html.DisplayFor(modelItem => item.BCategory)</a>
+            </td>
+        </tr>
+
+    }
+
+</table>
